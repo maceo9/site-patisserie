@@ -1,0 +1,33 @@
+/* Ceci est un commentaire en CSS */
+/* Sélecteur par type de balise et nom de couleur */
+body {
+  background-color: beige;
+}
+h1 {
+    color: white;
+    text-shadow: 3px 2px 4px black;
+}
+/* Sélecteur par classe et couleur hexadécimal */
+.argent {
+  color: #68228b;
+}
+/* Sélecteur par identifiant et couleur RGB */
+#toto {
+  color: rgb(255,0,0);
+}
+#titi {
+  color: rgb(255,255,0);
+}
+#tata {
+  color: rgb(255,255,255);
+}
+
+
+/* img {
+    border: 3px solid white;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow:2px 2px 4px black;
+    display:block;
+    margin: auto;
+} */		
