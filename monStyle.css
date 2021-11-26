@@ -2,9 +2,10 @@
 /* Sélecteur par type de balise et nom de couleur */
 body {
   background-color: beige;
+  font-family: "Arial", "Helvetica", sans-serif;
 }
 h1 {
-    color: white;
+    color: black;
     text-shadow: 3px 2px 4px black;
 }
 /* Sélecteur par classe et couleur hexadécimal */
